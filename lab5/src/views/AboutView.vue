@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h1>Sachkovska Alina 8.1213</h1>
+    <h1>Tiushnyakov Illia 8.1213</h1>
   </div>
 </template>
 
